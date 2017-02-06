@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConfigurationDemo</string>
+    <string name="developerFullName">Vinay Reddy Polati! </string>
+    <string name="sportifyFont">"fonts/sportify.ttf" </string>
+    <string name="portrait_description">Hello! now phone is in portrait mode.</string>
+    <string name="landscape_description">Hai! now phone is in landscape mode.</string>
+</resources>
